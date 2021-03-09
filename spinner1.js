@@ -1,5 +1,3 @@
-// const typewriter = require("../type_writer/typewriter");
-
 setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 100);
